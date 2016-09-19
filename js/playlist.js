@@ -19,10 +19,15 @@ var conferenceType = {
     ],
 
     java: [
+        allProducts.general,
         allProducts.intellijIdea,
+        allProducts.general,
         allProducts.teamcity,
+        allProducts.general,
         allProducts.upsource,
+        allProducts.general,
         allProducts.youtrack,
+        allProducts.general,
         allProducts.webstorm
     ]
 };
